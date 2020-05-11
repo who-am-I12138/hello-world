@@ -1,0 +1,4 @@
+the subject for CAUC
+creat wordcloud use python
+support Chinese only(by import jieba,and jieba can not indentify English?? maybe,i did not test)
+can setup FONT_SIZE FONT etc
